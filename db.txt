@@ -1,0 +1,1 @@
+szef zmienia sposób pracy z bazą danych z sql na nosql
